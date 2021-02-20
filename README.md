@@ -1,2 +1,11 @@
-# Payment-gateway
-As the name suggests the complete idea of the same that is it is a kind of payment gateway, which is made to take online mode of payment from any part of the world. please do check it if you find any kind of error in it. Its a kind of payment website, which will take payment through UPI, CARD etc. Do check it out ones.
+# Payment-Gateway-Integration
+Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
+
+For demo card use
+
+Card No:- 4111 1111 1111 1111
+
+cvv:- Any
+
+Validity:- Any
+
